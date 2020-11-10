@@ -70,13 +70,13 @@
         width: 46%;
     }
     .home_enq {
-        background: #03a9f4;
+        background: #2A2731;
         position: relative;
         overflow: hidden;
         padding-bottom: 10px;
     }
     .n-help::before {
-        background: rgba(18, 180, 187, 0.88);
+        background: #2A2731;
     }
     .e_h1 {
         display: none;
@@ -85,7 +85,7 @@
         background-size: cover;
     }
     .nh-help::before {
-        background: #00BCD4;
+        background: #2A2731;
     }
     .ho-vid {
         margin-top: 70px;
@@ -147,7 +147,7 @@
         float: left;
         font-size: 24px;
         font-weight: 600;
-        color: #00bcd4;
+        color: #2A2731;
     }
     .hot-list-p3-4 {
         width: 100% !important;
@@ -157,7 +157,7 @@
         padding: 30px 15px 20px 15px;
     }
     .hot-list-p3-1 {
-        color: #979797 !important;
+        color: #2A2731 !important;
         font-size: 14px !important;
         padding-top: 10px;
     }
@@ -207,7 +207,7 @@
         width: 100%;
     }
     .db-2-main-2 {
-        border-right: 0px solid #eaedef;
+        border-right: 0px solid #2A2731;
         padding: 20px;
     }
     .db-2-main-com span {
@@ -282,21 +282,21 @@
         display: none;
     }
     .main_menu {
-        background: #000000;
+        background: #2A2731;
         box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.8);
         top: 0px;
         width: 100%;
         z-index: 9999;
     }
     .navbar-inverse {
-        background-color: #000000;
+        background-color: #2A2731;
         border-radius: 0px;
     }
     .navbar-nav > li > a {
         line-height: 15px;
         border-radius: 1px;
-        border-bottom: 1px solid #1a1a1a;
-        color: #FFFFFF !important;
+        border-bottom: 1px solid #2A2731;
+        color: #2A2731 !important;
     }
     .menu_book {
         float: none;
@@ -346,7 +346,7 @@
         display: block;
     }
     .dropdown-menu > li > a {
-        border-bottom: 1px solid #1a1a1a;
+        border-bottom: 1px solid #2A2731;
     }
     .book_poly h3 {
         padding-top: 50px;
@@ -536,7 +536,7 @@
         height: 100%;
         top: 0px;
         bottom: 0px;
-        background: rgba(19, 40, 58, 0.87);
+        background: #2A2731;
     }
     .dir-rat-right ul li span {
         display: none;
@@ -580,7 +580,7 @@
         margin-top: 0;
     }
     .help-line {
-        background: url('../images/home_left.jpg') no-repeat #ffc107;
+        background: url('../images/home_left.jpg') no-repeat #2A2731;
         background-size: cover;
         padding: 20px 0px 32px 0px;
         position: relative;
@@ -588,7 +588,7 @@
     }
     .help-line::before {
         position: absolute;
-        background: rgba(0, 188, 212, 0.75);
+        background: #2A2731;
         content: '';
         top: 0px;
         bottom: 0px;
@@ -682,7 +682,7 @@
         margin: 0 auto;
     }
     .menu_book a {
-        background: #FFC107;
+        background: #2A2731;
         font-weight: 700;
         font-style: italic;
         text-decoration: none !important;
@@ -714,7 +714,7 @@
 
 @media screen and (min-width: 992px) {
     .help-line {
-        background: url('../images/home_left.jpg') no-repeat #ffc107;
+        background: url('../images/home_left.jpg') no-repeat #2A2731;
         background-size: 50%;
         position: relative;
         overflow: hidden;
@@ -722,7 +722,7 @@
     }
     .help-line::before {
         position: absolute;
-        background: rgba(0, 188, 212, 0.75);
+        background: #2A2731;
         content: '';
         top: 0px;
         bottom: 0px;
